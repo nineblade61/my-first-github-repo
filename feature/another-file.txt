@@ -1,3 +1,4 @@
 this line was replaced in feature-2 branch
 this file was modified locally
 this line was added to feature-2 branch
+another mod in the feature-2 branch
